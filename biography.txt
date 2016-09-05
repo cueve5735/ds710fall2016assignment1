@@ -1,9 +1,22 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+
 1. What is your name?
 Emanuel (Manny) Cuevas
+
 2. Why are you interested in Data Science?
+Data Science has the right mix of disciplines to both keep my mind stimulated and keep me competitive in the evolving job market. Coming from a business background in my undergraduate career and professional career, I understand the value of using data to make informed business decisions. Data Science offers a wide range of skills and techniques that are well suited for solving a multitude of business challenges. The ability to exercise these diverse skillsets across multiple disciplines is what appeals to me the most about the Data Science profession. As a new and growing field, organizations that employ Data Scientists are going to need strategic leaders that have a technical focus in order to be successful. Having had the experience of implementing an analytics team within an organization for the very first time, I understand the value of having business leaders with a technical focus. For this reason, I believe the Data Science program will lay a strong foundation for my long term aspiration of leading a Data and Analytics organization.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+My programming experience is somewhat limited. I took a course in Visual Basic .Net as an undergraduate, and am self-taught in R and SQL with no formal courses in either. I do use VB and SQL quite extensively in my current job as a systems specialist. Using SQL I integrate data from a variety data management systems such as Oracle, MS SQL Server, and Teradata. Using R I have developed forecasting models for time series data in order to estimate future values. Using VB I have developed basic applications within MS Access, and macro's in MS Excel.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+My statistics experience is somewhat limited. I took a course in Statistical Process Control as an undergraduate. In this course I learned foundational knowledge in statistics, and applied this knowledge to common challenges found in the manufacturing industry such as Lean, Six Sigma, and Quality Control. I have been able to apply statistical techniques on the job, particularly in the discovery of patterns between defect variables in the manufacturing environment.  
+
 5.  Do you have other experience with R or Python?
+No
+
 6.  What do you hope to learn in this class?
+Foundational knowledge of R and Python to prepare me for the future courses in the MSDS program.
+
 7.  Is there anything else you would like to share with us?
+I would by no means describe myself as an expert in either programming or statistics, but am highly interested in both. Coming from a business background, I understand there will be a great learning curve, but I am motivated to take on the challenge and succeed in this program.
